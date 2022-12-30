@@ -1,0 +1,96 @@
+.site {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(206, 210, 212);
+}
+h2 {
+    text-align:left
+}
+p {
+    text-align: left
+}
+.m {
+    text-align: left
+}
+.l {
+    margin-left: 66%;
+}
+.logo {
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(0, 0, 0); 
+    justify-content: space-around;
+    color: white;
+    align-items: center;
+}
+.image {
+    width: 4%;
+}
+.im {
+    width: 65%;
+    display: block;
+    margin-right: 30%;
+    border:solid rgb(0, 0, 0);
+}
+.name {
+    font-size: 200%;
+}
+.nav1 {
+    font-size: 100%;
+}
+.nav2 {
+    font-size: 100%;
+}
+.nav3 {
+    font-size: 100%;
+}
+.mems {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(206, 210, 212);
+}
+.mems1 {
+    color: black;
+    font-size: large;
+    margin-left: 10%;
+    border: 50 px 50 px solid rgb(0, 0, 0);
+}
+.mems2 {
+    color: black;
+    font-size: large;
+    background-color:  rgb(206, 210, 212);
+    margin-left: 10%;
+}
+.mems3 {
+    color: black;
+    font-size: large;
+    margin-left: 10%;
+}
+.mems4 {
+    color: black;
+    font-size: large;
+    margin-left: 10%;
+}
+.mems5 {
+    color: black;
+    font-size: large;
+    margin-left: 10%;
+}
+.mems6 {
+    color: black;
+    font-size: large;
+    background-color:  rgb(206, 210, 212);
+    margin-left: 10%;
+}
+.mems7 {
+    color: black;
+    font-size: large;
+    background-color:  rgb(206, 210, 212);
+    margin-left: 10%;
+}
+.mems8 {
+    color: black;
+    font-size: large;
+    background-color:  rgb(206, 210, 212);
+    margin-left: 10%;
+}
